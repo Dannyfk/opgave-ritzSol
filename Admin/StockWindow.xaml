@@ -1,0 +1,18 @@
+﻿<Window x:Class="Admin.StockWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="StockWindow" Height="332.609" Width="537.391" xmlns:Admin="clr-namespace:Admin" Loaded="Window_Loaded_1">
+    <Window.Resources>
+        <Admin:CellBackgroundConverter x:Key="CellBackgroundConverter"/>
+        <Style x:Key="cellStyle" TargetType="DataGridCell">
+            <Setter Property="Background" 
+              Value="{Binding RelativeSource={RelativeSource Self}, Path=Content.Text, Converter={StaticResource CellBackgroundConverter}}"/>
+            <Setter Property="TextElement.Foreground" Value="Black"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="244" Width="509" ItemsSource="{Binding}" CanUserAddRows="False"/>
+        <Button x:Name="btnUpdate" Content="Opdater" HorizontalAlignment="Left" Margin="444,259,0,0" VerticalAlignment="Top" Width="75" Height="34" Click="btnUpdate_Click"/>
+        <Button x:Name="btnBack" Content="Tilbage" HorizontalAlignment="Left" Margin="10,259,0,0" VerticalAlignment="Top" Width="75" Height="34" Click="btnBack_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\ritz\bin\Debug\ritz.exe.config
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\ritz\bin\Debug\ritz.exe
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\ritz\bin\Debug\ritz.pdb
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\ritz\obj\Debug\MainWindow.baml
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\ritz\obj\Debug\RoomNumberWindow.baml
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\ritz\obj\Debug\MainWindow.g.cs
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\ritz\obj\Debug\RoomNumberWindow.g.cs
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\ritz\obj\Debug\App.g.cs
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\ritz\obj\Debug\ritz_MarkupCompile.cache
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\ritz\obj\Debug\ritz.g.resources
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\ritz\obj\Debug\ritz.Properties.Resources.resources
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\ritz\obj\Debug\ritz.csproj.GenerateResource.Cache
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\ritz\obj\Debug\ritz.exe
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\ritz\obj\Debug\ritz.pdb
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\ritz\obj\Debug\ritz.csprojResolveAssemblyReference.cache

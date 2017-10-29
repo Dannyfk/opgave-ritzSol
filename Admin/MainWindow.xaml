@@ -1,0 +1,10 @@
+﻿<Window x:Class="Admin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="btnDrink" Content="Drikkevarer" HorizontalAlignment="Left" Margin="186,78,0,0" VerticalAlignment="Top" Width="75" Click="btnDrink_Click"/>
+        <Button x:Name="btnStock" Content="Lager" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="80,78,0,0" Click="btnStock_Click"/>
+        <Button x:Name="btnBilling" Content="Fakturering" HorizontalAlignment="Left" Margin="291,78,0,0" VerticalAlignment="Top" Width="75" Click="btnBilling_Click"/>
+    </Grid>
+</Window>

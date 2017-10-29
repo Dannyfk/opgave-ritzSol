@@ -1,0 +1,7 @@
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\UnitTestProject\bin\Debug\ritz.exe
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\UnitTestProject\bin\Debug\ritz.pdb
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Danny\Documents\GitHub\hotelRitz\ritzSol\UnitTestProject\obj\Debug\UnitTestProject.pdb
